@@ -20,24 +20,21 @@
 
 <table>
   <tr>
-    <td valign="middle" width="58%" style="padding-right: 15px;">
-      <p style="font-size: 16px; line-height: 1.6;">
-      I'm an ECE student passionate about building modern, scalable applications across 
-      <strong>Artificial Intelligence, Full-Stack Engineering, System Design, and Automation</strong>.  
-      I focus on solving real-world challenges with clean architecture, optimized workflows, 
-      and high-impact engineering.
+    <td valign="middle" width="55%">
+      
+**I'm an ECE student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation.**  
+I focus on building solutions with clean architecture, optimized workflows, and real-world impact.
 
-      <br><br>
+<br>
 
-      My work philosophy:  
-      <em><strong>“Build with intent. Learn with curiosity. Deliver with impact.”</strong></em>
-      </p>
+**My work philosophy:**  
+_“Build with intent. Learn with curiosity. Deliver with impact.”_
+
     </td>
-
-    <td valign="middle" width="42%" align="right">
+    <td valign="middle" width="45%" align="right">
       <img 
-        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-        width="350" 
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+        width="300"
         alt="Developer Animation"
       />
     </td>
