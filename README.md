@@ -20,11 +20,13 @@
 
 ## 🧑‍💻 About Me  
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="350" alt="Developer GIF" />
-I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
+<span>
+  I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
 My work philosophy: **solve problems with purpose and engineer experiences that genuinely create value.**
 
 > _“Build with intent. Learn with curiosity. Deliver with impact.”_
 
+</span>
 ---
 
 # 🛠️ My Tech Stack
