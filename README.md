@@ -27,7 +27,7 @@
       <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
     </td>
     <td valign="middle" width="43%" align="right">
-      <img src="/mnt/data/042bc8ad-f978-447f-a500-05a39043805f.png" width="300" alt="Developer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
     </td>
   </tr>
 </table>
