@@ -26,7 +26,7 @@
       <strong>My work philosophy:</strong><br/>
       <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
     </td>
-    <td valign="middle" width="43%" align="right">
+    <td valign="middle" width="43%" align="canter">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
     </td>
   </tr>
@@ -131,18 +131,28 @@
 - SEO & Web Performance Engineering  
 - Advanced System Design Concepts  
 
----
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 </p>
+---
 
 # 🌐 Connect with Me
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="#">
+    <img src="" />
+  </a>
+  <a href="#">
+    <img src="shyamvyawahare1@gmail.com" />
+  </a>
+  <a href="#">
+    <img src="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg==" />
+  </a>
+  <a href="#">
+    <img src="https://x.com/VyawahareS56484" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
