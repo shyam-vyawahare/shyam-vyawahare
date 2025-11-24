@@ -26,7 +26,7 @@
       <strong>My work philosophy:</strong><br/>
       <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
     </td>
-    <td valign="middle" width="43%" align="canter">
+    <td valign="middle" width="43%" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
     </td>
   </tr>
@@ -136,22 +136,21 @@
 </p>
 ---
 
-# 🌐 Connect with Me
-
 <p align="center">
   <a href="#">
-    <img src="" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
-    <img src="shyamvyawahare1@gmail.com" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg==" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://x.com/VyawahareS56484" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 
 
 <p align="center">
