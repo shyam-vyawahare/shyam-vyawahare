@@ -20,19 +20,30 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-<span>
-I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
-My work philosophy: **solve problems with purpose and engineer experiences that genuinely create value.**
+    <td valign="middle" width="58%" style="padding-right: 15px;">
+      <p style="font-size: 16px; line-height: 1.6;">
+      I'm an ECE student passionate about building modern, scalable applications across 
+      <strong>Artificial Intelligence, Full-Stack Engineering, System Design, and Automation</strong>.  
+      I focus on solving real-world challenges with clean architecture, optimized workflows, 
+      and high-impact engineering.
 
-> _“Build with intent. Learn with curiosity. Deliver with impact.”_
-</span>
+      <br><br>
+
+      My work philosophy:  
+      <em><strong>“Build with intent. Learn with curiosity. Deliver with impact.”</strong></em>
+      </p>
     </td>
-    <td valign="top" width="40%" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350" alt="Developer Animation" />
+
+    <td valign="middle" width="42%" align="right">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+        width="350" 
+        alt="Developer Animation"
+      />
     </td>
   </tr>
 </table>
+
 
 # 🛠️ My Tech Stack
 
