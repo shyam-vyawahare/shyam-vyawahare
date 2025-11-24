@@ -20,27 +20,17 @@
 
 <table>
   <tr>
-    <td valign="middle" width="55%">
-      
-**I'm an ECE student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation.**  
-I focus on building solutions with clean architecture, optimized workflows, and real-world impact.
-
-<br>
-
-**My work philosophy:**  
-_“Build with intent. Learn with curiosity. Deliver with impact.”_
-
+    <td valign="middle" width="57%">
+      <strong>I'm an ECE student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation.</strong><br/>
+      I focus on building solutions with clean architecture, optimized workflows, and real-world impact.<br/><br/>
+      <strong>My work philosophy:</strong><br/>
+      <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
     </td>
-    <td valign="middle" width="45%" align="right">
-      <img 
-        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-        width="300"
-        alt="Developer Animation"
-      />
+    <td valign="middle" width="43%" align="right">
+      <img src="/mnt/data/042bc8ad-f978-447f-a500-05a39043805f.png" width="300" alt="Developer Animation" />
     </td>
   </tr>
 </table>
-
 
 # 🛠️ My Tech Stack
 
