@@ -29,7 +29,7 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 </span>
     </td>
     <td valign="top" width="40%" align="right">
-      <img src="/mnt/data/042bc8ad-f978-447f-a500-05a39043805f.png" width="350" alt="Developer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350" alt="Developer Animation" />
     </td>
   </tr>
 </table>
@@ -112,8 +112,9 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 
 # 📊 GitHub Stats
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
+</p>
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" />
@@ -133,7 +134,10 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 - Advanced System Design Concepts  
 
 ---
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+</p>
+
 # 🌐 Connect with Me
 
 <p align="left">
