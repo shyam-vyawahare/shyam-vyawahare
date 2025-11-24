@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="350" alt="Developer GIF" />
+  
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="350" alt="Developer GIF" />
 I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
 My work philosophy: **solve problems with purpose and engineer experiences that genuinely create value.**
 
@@ -104,6 +104,8 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 ---
 
 # 📊 GitHub Stats
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
