@@ -1,86 +1,131 @@
-# 👋 Hi, I'm **Shyam Vyawahare**
+<!-- Name Heading -->
+<h1 align="center">Hi, I'm Shyam Vyawahare 👋</h1>
 
-### 🚀 Electronics & Computer Engineering Student | Full-Stack Developer | Tech Innovator
+<h3 align="center">
+  Electronics & Computer Engineering Student | AI & Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/50/5050e754e26356da3b7d7adf41c65c03_w200.gif" width="200">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="350" alt="Developer GIF" />
 </p>
 
 <p align="center">
-  <a href="https://shyam-vyawahare.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://shyam-vyawahare.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🧑‍💻 About Me  
 
-I'm an ECE student passionate about building modern, scalable applications across **frontend, backend, cloud deployment, and system design**.
-My focus lies in **problem-solving, clean architecture, and real-world product development** that drives meaningful user experiences.
+I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
+My work philosophy: **solve problems with purpose and engineer experiences that genuinely create value.**
 
-> *“Build with intent. Learn with curiosity. Deliver with impact.”*
+> _“Build with intent. Learn with curiosity. Deliver with impact.”_
 
 ---
 
 # 🛠️ My Tech Stack
 
 ### **Languages**
-
-![JS](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frontend**
-
-![React](https://img.shields.io/badge/React-1f232a?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5d2dfd?style=for-the-badge\&logo=vite\&logoColor=yellow)
+![React](https://img.shields.io/badge/React-1f232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### **Backend & APIs**
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### **Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 🚀 My Creations
+# 🚀 My Creations  
+### _Some of my key projects showcased in a tile-style layout_
 
-### **Portfolio Website**
-
-A modern, responsive, and minimal personal website highlighting my expertise.
-**Tech:** React, Tailwind, Vercel
-🔗 **Live:** [https://shyam-vyawahare.vercel.app](https://shyam-vyawahare.vercel.app)
-[![Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge\&logo=github\&logoColor=white)]()
-
-*(Add more projects later — I can format them beautifully like your friend’s grid style.)*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Morphed Image Detector</h3>
+      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
+      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Bank ATM Simulator</h3>
+      <p>A complete ATM simulation system including withdrawals, deposits, authentication, and transaction logs.</p>
+      <a href="https://github.com/shyam-vyawahare/Bank-ATM-Simulator">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Restaurant Management System</h3>
+      <p>A C++ powered restaurant system featuring inventory, billing, menu management, and more.</p>
+      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Attendance Management System</h3>
+      <p>Face recognition-based automated attendance system using AI and OpenCV.</p>
+      <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Portfolio Website</h3>
+      <p>The website that showcases my journey, skills, and technical evolution.</p>
+      <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
 
 ---
 
-# 📚 Currently Building Skills In
+# 📚 Currently Learning
 
-* **Advanced React patterns**
-* **Backend API development**
-* **Deployment workflows**
-* **System design fundamentals**
+- ML and Model Training  
+- CWV (Core Web Vitals) Optimization  
+- SEO & Web Performance Engineering  
+- Advanced System Design Concepts  
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect with Me
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -91,5 +136,3 @@ A modern, responsive, and minimal personal website highlighting my expertise.
 <p align="center">
   <img src="https://i.imgur.com/kd0A2Q8.gif" width="350">
 </p>
-
-Just tell me, Ultrex — I’ll redesign it instantly.
