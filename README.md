@@ -16,18 +16,23 @@
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
----
+## 🧑‍💻 About Me
 
-## 🧑‍💻 About Me  
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="350" alt="Developer GIF" />
+<table>
+  <tr>
+    <td valign="top" width="60%">
 <span>
-  I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
+I'm an ECE student passionate about building modern, scalable applications across **Artificial Intelligence, Full-Stack Engineering, System Design, and Automation**.  
 My work philosophy: **solve problems with purpose and engineer experiences that genuinely create value.**
 
 > _“Build with intent. Learn with curiosity. Deliver with impact.”_
-
 </span>
----
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="/mnt/data/042bc8ad-f978-447f-a500-05a39043805f.png" width="350" alt="Developer Animation" />
+    </td>
+  </tr>
+</table>
 
 # 🛠️ My Tech Stack
 
@@ -107,7 +112,7 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 
 # 📊 GitHub Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
@@ -128,7 +133,7 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 - Advanced System Design Concepts  
 
 ---
-
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 # 🌐 Connect with Me
 
 <p align="left">
@@ -138,5 +143,5 @@ My work philosophy: **solve problems with purpose and engineer experiences that 
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/kd0A2Q8.gif" width="350">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
 </p>
