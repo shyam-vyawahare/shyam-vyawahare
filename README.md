@@ -128,20 +128,10 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" 
-       alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <!-- Streak Stats -->
   <img height="180" 
        src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
        alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <!-- Top Languages -->
   <img height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
