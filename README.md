@@ -127,14 +127,17 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" />
+  <img height="180"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
+
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
+  <img height="180"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
-
 
 # 📚 Currently Learning
 
