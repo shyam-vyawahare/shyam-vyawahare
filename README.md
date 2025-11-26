@@ -134,16 +134,16 @@
   <img src="https://img.shields.io/github/last-commit/shyam-vyawahare/Shyam-Vyawahare-Portfolio?label=Last%20Commit&style=for-the-badge" alt="Last Commit" />
 </p>
 
-<p align="center">
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" /> </p> <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" /><p align="center">
   <!-- Optional visual cards: will show when the readme-stats mirror is available.
        If they vanish, the badges above keep the section useful. -->
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" alt="GitHub Stats (card)" />
   <img height="160" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" alt="Streak Stats (card)" />
 </p>
 
-<p align="center">
-  <!-- Top languages (optional visual card / fallback) -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" alt="Top Languages" />
+  <p align="center">
+    <!-- Top languages (optional visual card / fallback) -->
+    <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 # 📚 Currently Learning
