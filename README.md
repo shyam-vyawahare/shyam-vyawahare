@@ -37,7 +37,7 @@
 <table>
   <tr>
     <!-- LEFT SIDE: TECH STACK -->
-    <td align="left" width="57%">
+    <td align="middle" width="57%">
       <strong>Languages</strong><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
