@@ -37,7 +37,7 @@
 <table>
   <tr>
     <!-- LEFT SIDE: TECH STACK -->
-    <td align="middle" width="57%">
+    <td align="left" width="57%">
       <strong>Languages</strong><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <!-- RIGHT SIDE: GIF -->
-    <td align="right" width="43%">
+    <td valign="middle" align="right" width="43%">
       <img
         src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
         width="260" 
