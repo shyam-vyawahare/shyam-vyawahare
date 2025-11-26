@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -30,7 +32,9 @@
   </tr>
 </table>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 # 🛠️ My Tech Stack
 
@@ -57,7 +61,9 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 # 🚀 My Creations  
 ### _Some of my key projects showcased in a tile-style layout_
@@ -106,7 +112,9 @@
   </tr>
 </table>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 # 📊 GitHub Stats
 
@@ -121,7 +129,9 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 # 📚 Currently Learning
 
@@ -134,7 +144,9 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 
 ## 🤝 Connect With Me
 
@@ -152,7 +164,9 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000&height=40" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
 </p>
