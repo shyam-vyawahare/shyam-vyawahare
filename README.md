@@ -127,23 +127,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
 </p>
 
+# 📊 GitHub Stats
+
 <p align="center">
-  <!-- Reliable numeric badges (Shields.io) -->
-  <img src="https://img.shields.io/github/followers/shyam-vyawahare?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/repo-size/shyam-vyawahare/Shyam-Vyawahare-Portfolio?label=Repo%20Size&style=for-the-badge" alt="Repo size" />
-  <img src="https://img.shields.io/github/last-commit/shyam-vyawahare/Shyam-Vyawahare-Portfolio?label=Last%20Commit&style=for-the-badge" alt="Last Commit" />
+  <!-- GitHub Stats -->
+  <img height="180" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react" 
+       alt="GitHub Stats" />
 </p>
 
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" /> </p> <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" /><p align="center">
-  <!-- Optional visual cards: will show when the readme-stats mirror is available.
-       If they vanish, the badges above keep the section useful. -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" alt="GitHub Stats (card)" />
-  <img height="160" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" alt="Streak Stats (card)" />
+<p align="center">
+  <!-- Streak Stats -->
+  <img height="180" 
+       src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
+       alt="GitHub Streak" />
 </p>
 
-  <p align="center">
-    <!-- Top languages (optional visual card / fallback) -->
-    <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" alt="Top Languages" />
+<p align="center">
+  <!-- Top Languages -->
+  <img height="180" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
+       alt="Top Languages" />
 </p>
 
 # 📚 Currently Learning
