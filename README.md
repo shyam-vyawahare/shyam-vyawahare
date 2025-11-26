@@ -144,7 +144,7 @@
 <p align="center">
   <!-- Top Languages -->
   <img height="180" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
+       src="https://camo.githubusercontent.com/1dde74ac2b63b3b60076e68575fbac97279ae3823ac35e2d9508e36cfff87143/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d566169626861762d57616768616c6b6172266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" 
        alt="Top Languages" />
 </p>
 
