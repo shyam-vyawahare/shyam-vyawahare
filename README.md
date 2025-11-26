@@ -6,15 +6,13 @@
 </h3>
 
 <p align="center">
-  
-</p>
-
-<p align="center">
   <a href="https://shyam-vyawahare.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🧑‍💻 About Me
 
@@ -31,6 +29,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 # 🛠️ My Tech Stack
 
@@ -56,6 +56,8 @@
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 # 🚀 My Creations  
 ### _Some of my key projects showcased in a tile-style layout_
@@ -104,6 +106,8 @@
   </tr>
 </table>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -113,10 +117,11 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" />
 </p>
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 # 📚 Currently Learning
 
@@ -129,21 +134,20 @@
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shyamvyawahare1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CE3A2F&height=40" />
   </a>
-
   <a href="https://www.linkedin.com/in/shyam-vyawahare-9ab206327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&height=40" />
   </a>
-
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&height=40" />
   </a>
-
   <a href="https://x.com/VyawahareS56484">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000&height=40" />
   </a>
