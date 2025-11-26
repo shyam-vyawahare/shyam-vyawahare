@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-0078FF?style=for-the-badge&labelColor=0D1117&color=0078FF" />
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━-6A5ACD?style=for-the-badge&logoColor=white&labelColor=0D1117&color=4B0082" />
 </p>
 
 ## 🧑‍💻 About Me
