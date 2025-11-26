@@ -57,8 +57,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
 
----
-
 # 🚀 My Creations  
 ### _Some of my key projects showcased in a tile-style layout_
 
@@ -106,8 +104,6 @@
   </tr>
 </table>
 
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -122,8 +118,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
 
----
-
 # 📚 Currently Learning
 
 - ML and Model Training  
@@ -134,25 +128,26 @@
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 </p>
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shyamvyawahare1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CE3A2F&height=40" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/shyam-vyawahare-9ab206327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&height=40" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&height=40" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+
+  <a href="https://x.com/VyawahareS56484">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000&height=40" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
