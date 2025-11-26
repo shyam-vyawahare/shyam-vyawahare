@@ -125,13 +125,16 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="350" alt="Developer GIF" />
 </p>
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react&count_private=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-vyawahare&theme=react" />
 </p>
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" />
 </p>
+
 
 # 📚 Currently Learning
 
