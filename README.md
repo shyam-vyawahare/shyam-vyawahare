@@ -137,6 +137,17 @@
        alt="Top Languages" />
 </p>
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="assets/github-stats.png" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="assets/streak-stats.png" alt="Streak Stats" />
+  <img src="assets/top-langs.png" alt="Top Languages" />
+</p>
+
 # 📚 Currently Learning
 
 - ML and Model Training  
