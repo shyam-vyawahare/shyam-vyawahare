@@ -129,24 +129,13 @@
 <p align="center">
   <!-- Streak Stats -->
   <img height="180" 
-       src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
+       src="https://streak-stats.demolab.com/?user=shyam-vyawahare&theme=react" 
        alt="GitHub Streak" />
   <!-- Top Languages -->
   <img height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
        alt="Top Languages" />
 </p>
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="assets/github-stats.png" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="assets/streak-stats.png" alt="Streak Stats" />
-  <img src="assets/top-langs.png" alt="Top Languages" />
-</p>
-
 
 # 📚 Currently Learning
 
