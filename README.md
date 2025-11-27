@@ -147,6 +147,13 @@
   <img src="https://github.com/shyam-vyawahare/shyam-vyawahare/blob/main/assets/top-langs.png" alt="Top Languages" />
 </p>
 
+**Assets check (visual debug):**
+
+- github-stats: [link](https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/github-stats.png)
+- streak-stats: [link](https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/streak-stats.png)
+- top-langs: [link](https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/top-langs.png)
+
+
 
 
 # 📚 Currently Learning
