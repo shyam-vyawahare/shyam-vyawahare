@@ -1,0 +1,41 @@
+name: Generate GitHub Stats Images
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *' # daily at 03:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup
+        run: |
+          mkdir -p scripts assets
+          chmod +x scripts/fetch_stats.sh || true
+
+      - name: Run fetch script
+        env:
+          GH_USER: shyam-vyawahare
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash scripts/fetch_stats.sh
+
+      - name: Commit & push (if changes)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update generated github stats images"
+            git push
+          fi
