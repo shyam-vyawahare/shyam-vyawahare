@@ -136,7 +136,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
        alt="Top Languages" />
 </p>
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -147,6 +146,7 @@
   <img src="assets/streak-stats.png" alt="Streak Stats" />
   <img src="assets/top-langs.png" alt="Top Languages" />
 </p>
+
 
 # 📚 Currently Learning
 
