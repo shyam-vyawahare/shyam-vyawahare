@@ -127,19 +127,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="300" alt="Dev GIF" />
 </p>
 
-<p align="center">
-  <!-- Reliable numeric badges -->
-  <img src="https://img.shields.io/github/followers/shyam-vyawahare?label=Followers&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/public-repos/shyam-vyawahare?label=Public%20Repos&style=for-the-badge" alt="Public repos" />
-  <img src="https://img.shields.io/github/stars/shyam-vyawahare?label=Stars&style=for-the-badge" alt="Stars" />
-</p>
-
-<p align="center">
-  <!-- Optional visual cards — will show if service/mirror is up -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=react" alt="GitHub Stats (card)" />
-  <img height="160" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" alt="Streak Stats (card)" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" alt="Top Languages (card)" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 # 📚 Currently Learning
 
