@@ -126,18 +126,16 @@
   <!-- Animated header GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="300" alt="Dev GIF" />
 </p>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="center">
+  <!-- Streak Stats -->
+  <img height="180" 
+       src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
+       alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img height="180" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
+       alt="Top Languages" />
+</p>
 
 # 📚 Currently Learning
 
