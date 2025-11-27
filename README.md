@@ -25,7 +25,7 @@
       I focus on building solutions with clean architecture, optimized workflows, and real-world impact.<br/><br/>
       <strong>My work philosophy:</strong><br/>
       <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
-      <em>“Alyaws trying to be the Ultra Version of Myself.”</em>
+      <em>“Always trying to be the Ultra Version of Myself.”</em>
     </td>
     <td valign="middle" width="43%" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
