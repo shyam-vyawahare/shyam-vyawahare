@@ -129,7 +129,7 @@
 <p align="center">
   <!-- Streak Stats -->
   <img height="180" 
-       src="assets/github-stats.png" 
+       src="ttps://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
        alt="GitHub Streak" />
   <!-- Top Languages -->
   <img height="180" 
