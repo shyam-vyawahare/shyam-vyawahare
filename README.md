@@ -24,7 +24,7 @@
       <strong>I'm an ECE student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation.</strong><br/>
       I focus on building solutions with clean architecture, optimized workflows, and real-world impact.<br/><br/>
       <strong>My work philosophy:</strong><br/>
-      <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em>
+      <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em> <br>
       <em>“Always trying to be the Ultra Version of Myself.”</em>
     </td>
     <td valign="middle" width="43%" align="right">
