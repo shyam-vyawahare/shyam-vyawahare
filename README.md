@@ -139,13 +139,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/github-stats.png" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/github-stats.png" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="assets/streak-stats.png" alt="Streak Stats" />
-  <img src="assets/top-langs.png" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/streak-stats.png" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/shyam-vyawahare/shyam-vyawahare/main/assets/top-langs.png" alt="Top Languages" />
 </p>
+
 
 
 # 📚 Currently Learning
