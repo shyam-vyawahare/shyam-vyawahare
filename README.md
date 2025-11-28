@@ -96,7 +96,7 @@
   <tr>
     <td width="50%">
       <h3>Restaurant Management System</h3>
-      <p>A C++ powered restaurant system featuring inventory, billing, menu management, and more.</p>
+      <p>A python & Django powered restaurant system featuring inventory, billing, menu management, and more.</p>
       <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
