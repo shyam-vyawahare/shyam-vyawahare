@@ -117,8 +117,6 @@
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Portfolio Website</h3>
       <p>The website that showcases my journey, skills, and technical evolution.</p>
