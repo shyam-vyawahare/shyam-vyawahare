@@ -111,6 +111,15 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3>SaaS Notes Application</h3>
+      <p>A multi-tenant SaaS Notes Application built with Next.js, TypeScript, and PostgreSQL, featuring role-based access control and subscription-based feature gating.</p>
+      <a href="https://github.com/shyam-vyawahare/SaaS-Notes-Application">
+        <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Portfolio Website</h3>
       <p>The website that showcases my journey, skills, and technical evolution.</p>
       <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
