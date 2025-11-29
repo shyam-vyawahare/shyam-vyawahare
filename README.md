@@ -136,7 +136,7 @@
 <p align="center">
   <!-- Streak Stats -->
   <img height="180" 
-       src="https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true" 
+       src="ttps://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
        alt="GitHub Streak" />
   <!-- Top Languages -->
   <img height="180" 
