@@ -136,14 +136,13 @@
 <p align="center">
   <!-- Streak Stats -->
   <img height="180" 
-       src="ttps://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
+       src="https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true" 
        alt="GitHub Streak" />
   <!-- Top Languages -->
   <img height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
        alt="Top Languages" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=transparent&hide_border=true)
 
 # 📚 Currently Learning
 
