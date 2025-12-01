@@ -139,16 +139,9 @@
   <img height="180"
        src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react"
        alt="GitHub Streak" />
-  <!-- Fallback: cached local copy (use this if dynamic service is unreliable) -->
-  <!-- Uncomment the next line if you add assets/streak.png to the repo -->
-  ![GitHub Streak](./assets/streak.png) 
-  <!-- Top Languages (dynamic service) -->
   <img height="180"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react"
        alt="Top Languages" />
-  <!-- Fallback: cached local copy (use this if dynamic service is unreliable) -->
-  <!-- Uncomment the next line if you add assets/top-langs.png to the repo -->
-  <img height="180" src="assets/top-langs.png" alt="Top Languages" />
 </p>
 
 
