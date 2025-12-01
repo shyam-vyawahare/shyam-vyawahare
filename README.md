@@ -133,17 +133,24 @@
   <!-- Animated header GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="300" alt="Dev GIF" />
 </p>
+
 <p align="center">
-  <!-- Streak Stats -->
-  <img height="180" 
+  <!-- Streak Stats (dynamic service) -->
+  <img height="180"
        src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react"
        alt="GitHub Streak" />
-  ![GitHub Streak](./assets/streak.png)
-  <!-- Top Languages -->
-  <img height="180" 
-       src="assets/top-langs.png" 
+  <!-- Fallback: cached local copy (use this if dynamic service is unreliable) -->
+  <!-- Uncomment the next line if you add assets/streak.png to the repo -->
+  ![GitHub Streak](./assets/streak.png) 
+  <!-- Top Languages (dynamic service) -->
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react"
        alt="Top Languages" />
+  <!-- Fallback: cached local copy (use this if dynamic service is unreliable) -->
+  <!-- Uncomment the next line if you add assets/top-langs.png to the repo -->
+  <img height="180" src="assets/top-langs.png" alt="Top Languages" />
 </p>
+
 
 # 📚 Currently Learning
 
