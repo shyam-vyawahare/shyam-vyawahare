@@ -138,6 +138,7 @@
   <img height="180" 
        src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react"
        alt="GitHub Streak" />
+  ![GitHub Streak](./assets/streak.png)
   <!-- Top Languages -->
   <img height="180" 
        src="assets/top-langs.png" 
