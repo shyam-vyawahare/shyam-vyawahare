@@ -1,0 +1,34 @@
+name: Update GitHub Streak Card
+
+on:
+  schedule:
+    - cron: '0 1 * * *'    # daily at 01:00 UTC — adjust as needed
+  workflow_dispatch:        # allows manual run from Actions tab
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Ensure assets dir
+        run: mkdir -p assets
+
+      - name: Download streak card
+        run: |
+          # fetch the card; change URL or query params as needed
+          curl -L "https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" -o assets/streak.png
+          # check size (optional)
+          ls -lh assets/streak.png
+
+      - name: Commit & push if changed
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "chore: update streak card"
+          add: "assets/streak.png"
