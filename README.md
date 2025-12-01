@@ -136,11 +136,11 @@
 <p align="center">
   <!-- Streak Stats -->
   <img height="180" 
-       src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react" 
+       src="assets/github-stats.png" 
        alt="GitHub Streak" />
   <!-- Top Languages -->
   <img height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react" 
+       src="assets/top-langs.png" 
        alt="Top Languages" />
 </p>
 
