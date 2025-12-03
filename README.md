@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td valign="middle" width="57%">
-      <strong>I'm an Electronics & Computer Engineering student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation.</strong><br/>
+      <strong>I'm an Electronics & Computer Engineering student passionate about building modern, scalable applications across Artificial Intelligence, Full-Stack Engineering, System Design, and Automation. Creative in Digital Art, logo designing and Novelist.</strong><br/>
       I focus on building solutions with clean architecture, optimized workflows, and real-world impact.<br/><br/>
       <strong>My work philosophy:</strong><br/>
       <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em> <br>
