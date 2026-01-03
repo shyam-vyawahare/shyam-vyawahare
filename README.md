@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://shyam-vyawahare.vercel.app">
+  <a href="https://shyam-vyawahare.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
