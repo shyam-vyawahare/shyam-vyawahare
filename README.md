@@ -79,22 +79,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Morphed Image Detector</h3>
-      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
-      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
-        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Restaurant Management</h3>
-      <p>A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.</p>
-      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
-        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>Bioscrap Official Website</h3>
       <p>The official platform for Bioscrap, focusing on sustainable waste management solutions and environmental impact tracking.</p>
       <a href="https://github.com/shyam-vyawahare/bioscrap-official">
@@ -112,6 +96,22 @@
       </a>
       <a href="https://shyam-vyawahare.vercel.app">
         <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Morphed Image Detector</h3>
+      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
+      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Restaurant Management</h3>
+      <p>A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.</p>
+      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
