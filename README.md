@@ -5,14 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=60&section=header&text=Building%20the%20future%20with%20Code%20and%20Art&fontSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Digital%20Workspace&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack_Architecture-0078FF?style=flat&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Art-Digital_Storytelling-FFD700?style=flat&logo=adobe-creative-cloud&logoColor=black" />
   <img src="https://img.shields.io/badge/Hardware-Systems_Design-34D058?style=flat&logo=arduino&logoColor=white" />
-</p>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Project-Bioscrap.in-orange?style=for-the-badge&logo=rocket" />
