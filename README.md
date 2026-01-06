@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078FF&height=60&section=header&text=Building%20the%20future%20with%20Code%20and%20Art&fontSize=20&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack_Architecture-0078FF?style=flat&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Art-Digital_Storytelling-FFD700?style=flat&logo=adobe-creative-cloud&logoColor=black" />
   <img src="https://img.shields.io/badge/Hardware-Systems_Design-34D058?style=flat&logo=arduino&logoColor=white" />
@@ -16,14 +20,14 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="line"/>
-</p>
-
-<p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </p>
 
 ---
@@ -54,8 +58,7 @@
 
 <table>
   <tr>
-    <!-- LEFT SIDE: TECH STACK -->
-    <td align="left" width="57%">
+    <td align="left" width="57%" valign="top">
       <strong>Languages</strong><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -67,25 +70,19 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <br><br>
-      <strong>Backend &amp; APIs</strong><br>
+      <strong>Backend & APIs</strong><br>
       <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white" />
       <br><br>
-      <strong>Databases &amp; Tools</strong><br>
+      <strong>Databases & Tools</strong><br>
       <img src="https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
     </td>
-    <!-- RIGHT SIDE: GIF -->
-    <td valign="middle" align="right" width="43%">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-        width="260" 
-        alt="Tech Stack Animation"
-      />
+    <td valign="top" align="right" width="43%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Tech Stack Animation" />
     </td>
   </tr>
 </table>
@@ -95,6 +92,22 @@
 ## 🚀 Featured Creations  
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Morphed Image Detector</h3>
+      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
+      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Restaurant Management</h3>
+      <p>A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.</p>
+      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Bioscrap Official Website</h3>
@@ -114,22 +127,6 @@
       </a>
       <a href="https://shyam-vyawahare.vercel.app">
         <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Morphed Image Detector</h3>
-      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
-      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
-        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Restaurant Management</h3>
-      <p>A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.</p>
-      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
-        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -197,3 +194,5 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
+</p>
