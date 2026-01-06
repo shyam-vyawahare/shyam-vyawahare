@@ -43,20 +43,30 @@
 
 <table>
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="57%">
       <strong>Languages</strong><br>
-      <code>Python</code> <code>C++</code> <code>C</code> <code>JavaScript</code> <code>TypeScript</code>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black" />
       <br><br>
       <strong>Frontend</strong><br>
-      <code>React</code> <code>Next.js</code> <code>TailwindCSS</code> <code>HTML5/CSS3</code>
+      <img src="https://img.shields.io/badge/React-1f232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       <br><br>
       <strong>Backend & APIs</strong><br>
-      <code>Node.js</code> <code>Express.js</code> <code>FastAPI</code> <code>Django</code>
+      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white" />
       <br><br>
       <strong>Databases & Tools</strong><br>
-      <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Docker</code> <code>Git</code> <code>GitHub</code>
+      <img src="https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
     </td>
-    <td valign="middle" align="right" width="40%">
+    <td valign="middle" align="right" width="43%">
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="260" alt="Tech Stack Animation" />
     </td>
   </tr>
@@ -64,23 +74,58 @@
 
 ---
 
-## 🚀 Featured Creations
+## 🚀 Featured Creations  
 
-<div align="center">
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Morphed Image Detector** | ML system to detect image tampering using classification. | `Python` `ML` |
-| **SaaS Notes App** | Multi-tenant app with RBAC and subscription gating. | `Next.js` `PostgreSQL` |
-| **Attendance System** | Face recognition-based automated attendance. | `AI` `OpenCV` |
-| **Restaurant System** | Inventory, billing, and menu management. | `Django` `Python` |
-| **Bank ATM Simulator** | Secure ATM simulation with transaction logs. | `Python` |
-
-<br/>
-<a href="https://github.com/shyam-vyawahare?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Morphed Image Detector</h3>
+      <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
+      <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Restaurant Management</h3>
+      <p>A Python & Django powered system featuring inventory, billing, menu management, and more.</p>
+      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Bank ATM Simulator</h3>
+      <p>A complete ATM simulation system including withdrawals, deposits, and transaction logs.</p>
+      <a href="https://github.com/shyam-vyawahare/Bank-ATM-Simulator">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Attendance System</h3>
+      <p>Face recognition-based automated attendance system using AI and OpenCV.</p>
+      <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>SaaS Notes Application</h3>
+      <p>Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscription gating.</p>
+      <a href="https://github.com/shyam-vyawahare/SaaS-Notes-Application">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>Portfolio Website</h3>
+      <p>The website that showcases my journey, skills, and technical evolution.</p>
+      <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
+        <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,19 +146,24 @@
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Learning
 
-<p align="center">
-  <b>ML Model Training</b> • <b>Core Web Vitals</b> • <b>SEO Engineering</b> • <b>Advanced System Design</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-</p>
+| Skill | Focus Area | Status |
+| :--- | :--- | :--- |
+| **Machine Learning** | Model Training & Deep Learning | 🛠️ In Progress |
+| **Web Performance** | Core Web Vitals (CWV) & SEO | 📈 Deep Dive |
+| **System Design** | Scalability & Microservices | 🏗️ Learning |
+| **Web Performance** | Performance Engineering | ⚡ Optimizing |
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:shyamvyawahare1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
