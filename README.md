@@ -5,6 +5,18 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/shyam-vyawahare-9ab206327/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://x.com/VyawahareS56484" target="blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://instagram.com/shyam_v_" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -185,5 +197,12 @@
 </p>
 
 <p align="center">
+
+
+  <p align="center">
+<a href="https://linkedin.com/in/shyam-vyawahare-9ab206327" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shyam vyawahare" /></a>
+<a href="https://x.com/VyawahareS56484" target="blank"><img align="center" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="shyam vyawahare" /></a>
+<a href="https://instagram.com/shyam_v_" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="shyam vyawahare" /></a>
+</p>
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
 </p>
