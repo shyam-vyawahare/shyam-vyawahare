@@ -135,6 +135,9 @@
 </p>
 
 <p align="center">
+  <img src="./assets/github-stats.png" alt="GitHub Stats" />
+</p>
+<p align="center">
   <!-- Streak Stats (dynamic service) -->
   <img height="180"
        src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react"
