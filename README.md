@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="57%">
       <p>I'm an <strong>Electronics & Computer Engineering</strong> student passionate about building modern, scalable applications across <strong>Artificial Intelligence, Full-Stack Engineering, and System Design</strong>.</p>
       <p>Beyond the code, I am a <strong>Digital Artist</strong>, <strong>Logo Designer</strong>, and <strong>Novelist</strong>. I believe in blending technical precision with creative storytelling.</p>
       <br/>
@@ -31,7 +31,7 @@
         <em>“Always trying to be the Ultra Version of Myself.”</em>
       </blockquote>
     </td>
-    <td valign="top" width="40%" align="right">
+    <td valign="top" width="43%" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
     </td>
   </tr>
@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td align="left" width="57%">
+    <td align="left" width="57%" valign="top">
       <strong>Languages</strong><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -66,8 +66,8 @@
       <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
     </td>
-    <td valign="middle" align="right" width="43%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="260" alt="Tech Stack Animation" />
+    <td valign="top" align="right" width="43%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Tech Stack Animation" />
     </td>
   </tr>
 </table>
@@ -78,49 +78,55 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Morphed Image Detector</h3>
       <p>A machine learning system to detect image tampering and morphing using advanced classification techniques.</p>
       <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Restaurant Management</h3>
-      <p>A Python & Django powered system featuring inventory, billing, menu management, and more.</p>
+      <p>A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.</p>
       <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Bank ATM Simulator</h3>
-      <p>A complete ATM simulation system including withdrawals, deposits, and transaction logs.</p>
-      <a href="https://github.com/shyam-vyawahare/Bank-ATM-Simulator">
+    <td width="50%" valign="top">
+      <h3>Bioscrap Official Website</h3>
+      <p>The official platform for Bioscrap, focusing on sustainable waste management solutions and environmental impact tracking.</p>
+      <a href="https://github.com/shyam-vyawahare/bioscrap-official">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <a href="https://Bioscrap.in">
+        <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>Attendance System</h3>
-      <p>Face recognition-based automated attendance system using AI and OpenCV.</p>
-      <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
+    <td width="50%" valign="top">
+      <h3>Portfolio Website</h3>
+      <p>A modern, responsive personal showcase of my engineering journey, technical projects, and creative works.</p>
+      <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://shyam-vyawahare.vercel.app">
+        <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>SaaS Notes Application</h3>
       <p>Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscription gating.</p>
       <a href="https://github.com/shyam-vyawahare/SaaS-Notes-Application">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%">
-      <h3>Portfolio Website</h3>
-      <p>The website that showcases my journey, skills, and technical evolution.</p>
-      <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
+    <td width="50%" valign="top">
+      <h3>Attendance System</h3>
+      <p>Face recognition-based automated attendance system using AI and OpenCV for seamless tracking.</p>
+      <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
         <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -155,7 +161,7 @@
 | **Machine Learning** | Model Training & Deep Learning | 🛠️ In Progress |
 | **Web Performance** | Core Web Vitals (CWV) & SEO | 📈 Deep Dive |
 | **System Design** | Scalability & Microservices | 🏗️ Learning |
-| **Web Performance** | Performance Engineering | ⚡ Optimizing |
+| **Advanced Web** | Performance Engineering | ⚡ Optimizing |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
