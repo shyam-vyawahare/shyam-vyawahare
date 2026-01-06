@@ -85,19 +85,19 @@
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="50%">
-      <h3>Bank ATM Simulator</h3>
-      <p>A complete ATM simulation system including withdrawals, deposits, authentication, and transaction logs.</p>
-      <a href="https://github.com/shyam-vyawahare/Bank-ATM-Simulator">
+   <td width="50%">
+      <h3>Restaurant Management System</h3>
+      <p>A python & Django powered restaurant system featuring inventory, billing, menu management, and more.</p>
+      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Restaurant Management System</h3>
-      <p>A python & Django powered restaurant system featuring inventory, billing, menu management, and more.</p>
-      <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
+      <h3>Bank ATM Simulator</h3>
+      <p>A complete ATM simulation system including withdrawals, deposits, authentication, and transaction logs.</p>
+      <a href="https://github.com/shyam-vyawahare/Bank-ATM-Simulator">
         <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -143,6 +143,20 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react"
        alt="Top Languages" />
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./assets/github-stats.png" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./assets/streak-stats.png" alt="GitHub Streak" />
+  <img src="./assets/top-langs.png" alt="Top Languages" />
+</p>
+
+
 
 # 📚 Currently Learning
 
