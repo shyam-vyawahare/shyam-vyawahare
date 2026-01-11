@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shyam Vyawahare 👋</h1>
+<h1 align="center">Hay, I'm Shyam Vyawahare 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Engineering;AI+%26+Full-Stack+Developer;Creative+Digital+Artist+%26+Novelist" alt="Typing SVG" />
@@ -199,6 +199,10 @@
   <a href="https://www.linkedin.com/in/shyam-vyawahare-9ab206327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/VyawahareS56484"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
