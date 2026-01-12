@@ -1,4 +1,12 @@
-<h1 align="center">Hay, I'm Shyam Vyawahare 👋</h1>
+<p align="center">
+  <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <br>
+  <h1 align="center">
+    Hay, I'm 
+    <img src="assets/shname.png" height="70" style="vertical-align: middle;"/> 
+    <img src="assets/vyname.png" height="70" style="vertical-align: middle;"/> 👋
+  </h1>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Engineering;AI+%26+Full-Stack+Developer;Creative+Digital+Artist+%26+Novelist" alt="Typing SVG" />
