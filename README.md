@@ -3,7 +3,7 @@
   <h1 align="center">
     Hay, I'm 
     <img src="assets/shname.png" height="70" style="vertical-align: middle;"/> 
-    <img src="assets/vyname.png" height="70" style="vertical-align: middle;"/>
+    <!-- <img src="assets/vyname.png" height="70" style="vertical-align: middle;"/> -->
   </h1>
 </p>
 
@@ -42,6 +42,8 @@
 <table>
   <tr>
     <td valign="top" width="57%">
+      Myself <strong>Shyam Vyawahare</strong>
+      <br><br/>
       <p>I'm an <strong>Electronics & Computer Engineering</strong> student passionate about building modern, scalable applications across <strong>Artificial Intelligence, Full-Stack Engineering, and System Design</strong>.</p>
       <p>Beyond the code, I am a <strong>Digital Artist</strong>, <strong>Logo Designer</strong>, and <strong>Novelist</strong>. I believe in blending technical precision with creative storytelling.</p>
       <br/>
