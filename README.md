@@ -211,8 +211,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
   <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
