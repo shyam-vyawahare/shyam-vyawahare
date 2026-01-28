@@ -167,6 +167,47 @@
 
 ---
 
+## 💼 Experience
+
+### 🔹 AI & Web Development (Projects & Practical Experience)
+**2023 – Present**
+
+- Developed and maintained **full-stack web applications** using HTML, CSS, JavaScript, React, and modern UI practices.
+- Built **RESTful APIs** with FastAPI, Flask, Node.js, and Express.js for scalable backend systems.
+- Worked with **MongoDB and MySQL** to design and manage efficient data models.
+- Implemented **AI & Machine Learning concepts**, including deep learning and transformer-based approaches, in academic and personal projects.
+- Focused on writing **clean, modular, and maintainable code**, emphasizing performance, scalability, and readability.
+
+---
+
+### 🔹 AI & Machine Learning Projects
+**Academic & Self-Driven**
+
+- Designed and implemented **machine learning pipelines**, including data preprocessing, model training, and evaluation.
+- Experimented with **deep learning architectures** and modern AI workflows such as transformers and LLM-based systems.
+- Applied AI techniques to **real-world problem statements**, prioritizing practical and explainable solutions.
+
+---
+
+### 🔹 Content Writer & Hindi Novelist  
+**Pocket Novel India | 3+ Years**
+
+- Authored **emotion-driven and imagination-focused Hindi novels** read by a wide audience.
+- Developed strong skills in **storytelling, scripting, and narrative structure**.
+- Gained experience in audience engagement, consistency, and long-term content planning.
+
+---
+
+### 🔹 Digital Artist & Designer
+**Freelance / Personal Projects**
+
+- Created **logos, posters, and digital artwork** for personal and freelance projects.
+- Applied creative thinking to **visual storytelling, branding, and design aesthetics**.
+- Combined design skills with technical understanding to produce visually engaging digital experiences.
+
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
