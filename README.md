@@ -205,6 +205,9 @@
 - Applied creative thinking to **visual storytelling, branding, and design aesthetics**.
 - Combined design skills with technical understanding to produce visually engaging digital experiences.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Turning+complex+logic+into+digital+art." alt="Typing SVG" />
+</p>
 
 ---
 
@@ -261,3 +264,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
 </p>
+<p align="center">
+  <i>"Where the logic of a processor meets the soul of a story."</i>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-Running_on_Curiosity_&_Coffee-34D058?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+<h3 align="center">🚀 Always debugging the present to build a better version of the future.</h3>
