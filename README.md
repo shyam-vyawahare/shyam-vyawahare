@@ -254,10 +254,7 @@
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
-</p>
+
 
 ---
 
