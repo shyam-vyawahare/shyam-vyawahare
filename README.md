@@ -271,5 +271,3 @@
   <img src="https://img.shields.io/badge/System_Status-Running_on_Curiosity_&_Coffee-34D058?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 <h3 align="center">🚀 Always debugging the present to build a better version of the future.</h3>
-
-All rights reserved
