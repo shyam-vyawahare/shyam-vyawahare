@@ -271,3 +271,8 @@
   <img src="https://img.shields.io/badge/System_Status-Running_on_Curiosity_&_Coffee-34D058?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 <h3 align="center">🚀 Always debugging the present to build a better version of the future.</h3>
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with_✨_Passion_by-Shyam_V.-0078FF?style=for-the-badge&labelColor=000000" />
+</p>
