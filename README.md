@@ -261,9 +261,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
-</p>
+
 <p align="center">
   <i>"Where the logic of a processor meets the soul of a story."</i>
 </p>
