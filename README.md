@@ -234,10 +234,10 @@
 
 | Skill | Focus Area | Status |
 | :--- | :--- | :--- |
+| **Blender** | 3D Engineering | ⚡ Working and Handling |
 | **Machine Learning** | Model Training & Deep Learning | 🛠️ In Progress |
-| **Web Performance** | Core Web Vitals (CWV) & SEO | 📈 Deep Dive |
+| **Advanced Web** | Core Web Vitals (CWV) & SEO | 📈 Deep Dive |
 | **System Design** | Scalability & Microservices | 🏗️ Learning |
-| **Advanced Web** | Performance Engineering | ⚡ Optimizing |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
