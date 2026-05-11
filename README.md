@@ -44,9 +44,9 @@
     <td valign="top" width="57%">
       Myself <strong>Shyam Vyawahare</strong>
       <br><br/>
-      <p>I'm an <strong>Electronics & Computer Engineering</strong> student passionate about building modern, scalable applications across <strong>Artificial Intelligence, Full-Stack Engineering, and System Design</strong>.</p>
-      <p>Beyond the code, I am a <strong>Digital Artist</strong>, <strong>Logo Designer</strong>, and <strong>Novelist</strong>. I believe in blending technical precision with creative storytelling.</p>
-      <br/>
+      <p>Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡</p>
+<p>Alongside Python & AI development, I’m deeply into <strong>Art</strong>, <strong>Logo design</strong>, and <strong>Creative writing</strong> 🎨✍️ mixing storytelling, visuals, and tech to make projects feel more human and alive.</p>
+<br/>
       <blockquote>
         <strong>My Philosophy:</strong><br/>
         <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em><br>
