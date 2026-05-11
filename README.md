@@ -61,6 +61,14 @@
 
 ---
 
+## 🟩 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/shyam-vyawahare" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
 ## 🛠️ My Tech Stack
 
 <p align="center">
@@ -218,7 +226,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=react-dark&bg_color=0d1117&hide_border=true&color=0078FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
