@@ -64,7 +64,22 @@
 ## 🟩 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/shyam-vyawahare" alt="GitHub Contribution Chart" />
+  <picture>
+    <!-- Dark Mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://ghchart.rshah.org/2ea043/shyam-vyawahare"
+    />
+    <!-- Light Mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://ghchart.rshah.org/30a14e/shyam-vyawahare"
+    />
+    <img
+      src="https://ghchart.rshah.org/30a14e/shyam-vyawahare"
+      alt="GitHub Contribution Chart"
+    />
+  </picture>
 </p>
 
 ---
