@@ -276,6 +276,11 @@
   <a href="https://x.com/VyawahareS56484"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+<p align="center">
+  <a href="https://discord.com/users/ultrex007">
+    <img src="https://img.shields.io/badge/💬_Discord-ultrex007-111827?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000" />
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
