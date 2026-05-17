@@ -39,9 +39,13 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+    width="280"
+    alt="Developer Animation"
+  />
+</p>
 
 ### Myself **Shyam Vyawahare**
 
@@ -54,21 +58,6 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 > **My Philosophy:**  
 > *“Build with intent. Learn with curiosity. Deliver with impact.”*  
 > *“Always trying to be the Ultra Version of Myself.”*
-
-</td>
-
-<td align="center" width="40%">
-
-<img 
-  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-  width="100%" 
-  style="max-width:300px;" 
-  alt="Developer Animation" 
-/>
-
-</td>
-  </tr>
-</table>
 
 ---
 
