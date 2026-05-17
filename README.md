@@ -41,21 +41,32 @@
 
 <table>
   <tr>
-    <td valign="top" width="57%">
-      Myself <strong>Shyam Vyawahare</strong>
-      <br><br/>
-      <p>Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡</p>
-<p>Alongside Python & AI development, I’m deeply into <strong>Art</strong>, <strong>Logo design</strong>, and <strong>Creative writing</strong> 🎨✍️ mixing storytelling, visuals, and tech to make projects feel more human and alive.</p>
+    <td valign="top" width="60%">
+
+### Myself **Shyam Vyawahare**
+
+Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
+
+Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, and **Creative writing** 🎨✍️ mixing storytelling, visuals, and tech to make projects feel more human and alive.
+
 <br/>
-      <blockquote>
-        <strong>My Philosophy:</strong><br/>
-        <em>“Build with intent. Learn with curiosity. Deliver with impact.”</em><br>
-        <em>“Always trying to be the Ultra Version of Myself.”</em>
-      </blockquote>
-    </td>
-    <td valign="top" width="43%" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Developer Animation" />
-    </td>
+
+> **My Philosophy:**  
+> *“Build with intent. Learn with curiosity. Deliver with impact.”*  
+> *“Always trying to be the Ultra Version of Myself.”*
+
+</td>
+
+<td align="center" width="40%">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+  width="100%" 
+  style="max-width:300px;" 
+  alt="Developer Animation" 
+/>
+
+</td>
   </tr>
 </table>
 
