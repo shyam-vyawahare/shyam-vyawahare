@@ -90,42 +90,54 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux&theme=dark" />
 </p>
-<table>
-  <tr>
-    <!-- LEFT SIDE: TECH STACK -->
-    <td align="left" width="57%">
-      <strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black" />
-      <br><br>
-      <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/React-1f232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <br><br>
-      <strong>Backend &amp; APIs</strong><br>
-      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <br><br>
-      <strong>Databases &amp; Tools</strong><br>
-      <img src="https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <!-- RIGHT SIDE: GIF -->
-    <td valign="middle" align="right" width="43%">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-        width="260" 
-        alt="Tech Stack Animation"
-      />
-    </td>
-  </tr>
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="60%" align="left">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br><br>
+
+### Frontend
+<img src="https://img.shields.io/badge/React-1f232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br><br>
+
+### Backend & APIs
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+### Databases & Tools
+<img src="https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+
+<td valign="middle" width="40%" align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+  width="260"
+  alt="Tech Stack Animation"
+/>
+
+</td>
+
+</tr>
 </table>
 
 ---
