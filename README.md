@@ -147,88 +147,110 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 <table width="100%">
 
 <tr>
+
 <td width="50%" valign="top">
 
-## Bioscrap Official Website
+## 🌾 Bioscrap Official Website
+
 The official platform for Bioscrap, focusing on sustainable waste management solutions and environmental impact tracking.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/bioscrap-official">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://Bioscrap.in">
-<img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
+<img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Portfolio Website
+## 🌐 Portfolio Website
+
 A modern, responsive personal showcase of my engineering journey, technical projects, and creative works.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/Shyam-Vyawahare-Portfolio">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://shyam-vyawahare.vercel.app">
-<img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## Morphed Image Detector
+## 🧠 Morphed Image Detector
+
 A machine learning system to detect image tampering and morphing using advanced classification techniques.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Restaurant Management
+## 🍽 Restaurant Management
+
 A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## SaaS Notes Application
+## ☁ SaaS Notes Application
+
 Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscription gating.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/SaaS-Notes-Application">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Attendance System
+## 📸 Attendance System
+
 Face recognition-based automated attendance system using AI and OpenCV for seamless tracking.
 
+<br>
+
 <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 </table>
-
----
 
 ## 💼 Experience
 
