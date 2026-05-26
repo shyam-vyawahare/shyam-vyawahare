@@ -254,6 +254,16 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 
 ## 💼 Experience
 
+### 🔹 Server Infrastructure Intern — Eduspark & MHT-CET
+**Mar 2026 – Apr 2026**
+
+- Managed **mission-critical server infrastructure and database operations** for MHT-CET examinations across multiple centers in Maharashtra.
+- Ensured **secure, stable, and uninterrupted exam execution** through real-time infrastructure monitoring and backend support.
+- Worked with **server management, database handling, and technical infrastructure operations** in a high-pressure examination environment.
+- Collaborated with operational teams to maintain **system reliability and backend performance** during large-scale examination processes.
+
+---
+
 ### 🔹 AI & Web Development (Projects & Practical Experience)
 **2023 – Present**
 
