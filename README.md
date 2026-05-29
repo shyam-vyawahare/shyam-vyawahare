@@ -329,9 +329,10 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 
 | Skill | Focus Area | Status |
 | :--- | :--- | :--- |
-| **Blender** | 3D Engineering | ⚡ Working and Handling |
 | **Machine Learning** | Model Training & Deep Learning | 🛠️ In Progress |
+| **Artificial Intelligence** | AI Agents | ⚡ Generative AI |
 | **Advanced Web** | Core Web Vitals (CWV) & Search Engine Optimization (SEO) | 📈 Deep Dive |
+| **Blender** | 3D Engineering | ⚡ Working and Handling |
 | **System Design** | Scalability & Microservices | 🏗️ Learning |
 
 <br/>
