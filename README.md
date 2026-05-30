@@ -136,7 +136,6 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 />
 
 </td>
-
 </tr>
 </table>
 
@@ -181,13 +180,9 @@ A modern, responsive personal showcase of my engineering journey, technical proj
 <a href="https://shyam-vyawahare.vercel.app">
 <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🧠 Morphed Image Detector
@@ -213,13 +208,9 @@ A Python & Django powered system featuring inventory, billing, menu management, 
 <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
 <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## ☁ SaaS Notes Application
