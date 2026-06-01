@@ -144,9 +144,7 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 ## 🚀 Featured Creations  
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🌾 Bioscrap Official Website
@@ -162,9 +160,7 @@ The official platform for Bioscrap, focusing on sustainable waste management sol
 <a href="https://Bioscrap.in">
 <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
-
 </td>
-
 <td width="50%" valign="top">
 
 ## 🌐 Portfolio Website
