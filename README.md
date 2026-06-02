@@ -232,11 +232,8 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 <a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
 <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </td>
-
 </tr>
-
 </table>
 
 ## 💼 Experience
