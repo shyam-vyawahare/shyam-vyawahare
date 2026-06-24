@@ -301,8 +301,12 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react&border_radius=5" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=react&border_radius=5" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react&border_radius=5&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shyam-Vyawahare&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Vyawahare&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
