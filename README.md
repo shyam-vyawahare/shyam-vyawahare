@@ -306,7 +306,7 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Vyawahare&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
