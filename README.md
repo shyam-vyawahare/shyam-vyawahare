@@ -318,6 +318,7 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 | **Advanced Web** | Core Web Vitals (CWV) & Search Engine Optimization (SEO) | 📈 Deep Dive |
 | **Blender** | 3D Engineering | ⚡ Working and Handling |
 | **System Design** | Scalability & Microservices | 🏗️ Learning |
+| **AI Analytics** | EDA (Exploratory Data Analytics) | 💻 Completed Job Simulation |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
