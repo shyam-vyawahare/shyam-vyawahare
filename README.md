@@ -2,8 +2,8 @@
   <br>
   <h1 align="center">
     Hay, I'm <br>
-    <img src="assets/shname.png" height="70" style="vertical-align: middle;"/> 
-    <!-- <img src="assets/vyname.png" height="70" style="vertical-align: middle;"/> -->
+    <img src="assets/shname.png" height="40" style="vertical-align: middle;"/> 
+    <img src="assets/vyname.png" height="40" style="vertical-align: middle;"/>
   </h1>
 </p>
 
