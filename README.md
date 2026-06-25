@@ -342,6 +342,11 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
     <img src="https://img.shields.io/badge/💬_Discord-ultrex007-111827?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000" />
   </a>
 </p>
+<p align="center">
+  <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
