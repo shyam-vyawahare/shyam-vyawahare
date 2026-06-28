@@ -248,23 +248,11 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 
 ---
 
-### 🔹 AI & Web Development (Projects & Practical Experience)
-**2023 – Present**
+### 🔹 Django Developer - Perpex
+**Intern | 3+ Months**
 
-- Developed and maintained **full-stack web applications** using HTML, CSS, JavaScript, React, and modern UI practices.
-- Built **RESTful APIs** with FastAPI, Flask, Node.js, and Express.js for scalable backend systems.
-- Worked with **MongoDB and MySQL** to design and manage efficient data models.
-- Implemented **AI & Machine Learning concepts**, including deep learning and transformer-based approaches, in academic and personal projects.
-- Focused on writing **clean, modular, and maintainable code**, emphasizing performance, scalability, and readability.
-
----
-
-### 🔹 AI & Machine Learning Projects
-**Academic & Self-Driven**
-
-- Designed and implemented **machine learning pipelines**, including data preprocessing, model training, and evaluation.
-- Experimented with **deep learning architectures** and modern AI workflows such as transformers and LLM-based systems.
-- Applied AI techniques to **real-world problem statements**, prioritizing practical and explainable solutions.
+- Learnt and worked on Django Frameworks
+- Created a full stack project, Hotel Management System with admin panel for items arrangements and custom changes
 
 ---
 
@@ -297,11 +285,11 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=react&border_radius=5&theme=radical" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=radical&hide_border=true&border_radius=8&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
