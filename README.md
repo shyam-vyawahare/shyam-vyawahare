@@ -12,17 +12,17 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_Architecture-0078FF?style=flat&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Art-Digital_Storytelling-FFD700?style=flat&logo=adobe-creative-cloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hardware-Systems_Design-34D058?style=flat&logo=arduino&logoColor=white" />
+
+<!-- Skills -->
+<img src="https://img.shields.io/badge/🧠_Focus-AI%2FML_Development-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎨_Art-Writer_%26_Artist-EC4899?style=for-the-badge" />
+
+<br>
+
+<!-- Current Project -->
+<img src="https://img.shields.io/badge/🚀_Current_Project-RagOra_--_RAG_Knowledge_Studio-2563EB?style=for-the-badge" />
+
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Project-Bioscrap.in-orange?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Status-Developing_Scalable_AI-blueviolet?style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
