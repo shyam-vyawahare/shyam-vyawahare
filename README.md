@@ -357,3 +357,6 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
 </p>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
+</p>
