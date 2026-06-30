@@ -26,10 +26,6 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</p>
-
-<p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -339,7 +335,11 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
   </a>
 </p>
 
----
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colour line"/>
+</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
@@ -347,15 +347,10 @@ Face recognition-based automated attendance system using AI and OpenCV for seaml
 <p align="center">
   <i>"Where the logic of a processor meets the soul of a story."</i>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Running_on_Curiosity_&_Coffee-34D058?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-<h3 align="center">🚀 Always debugging the present to build a better version of the future.</h3>
-<br />
+<br/>
 <p align="center">
   <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
-</p>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%"/>
