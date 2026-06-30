@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <h1 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&animation=twinkling&text=Hey,%20I'm&fontSize=52&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20•%20RAG%20Engineer%20•%20Writer%20%26%20Artist&descAlignY=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey,%20I'm&fontSize=58&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20RAG%20Knowledge%20Studio&descAlignY=58&descAlign=50"/>
     <br>
     <img src="assets/shname.png" height="40" style="vertical-align: middle;"/> 
     <img src="assets/vyname.png" height="40" style="vertical-align: middle;"/>
