@@ -141,11 +141,59 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 
 ## 🚀 Featured Creations  
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><strong>🧠 RagOra - RAG Knowledge Studio</strong></summary>
 
-## 🌾 Bioscrap Official Website
+<br>
+
+An AI-powered RAG platform that transforms documents into intelligent knowledge bases, enabling accurate, context-aware conversations with uploaded content.
+
+<br>
+
+<img src="https://img.shields.io/badge/Private_Project-Under_Development-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛡️ MorphShield</strong> - <em>Morphed Image Detector</em></summary>
+
+<br>
+
+An AI-driven image forensics platform that detects morphed and manipulated images using deep learning techniques for enhanced digital security.
+
+<br>
+
+<a href="https://github.com/shyam-vyawahare/AI-Healthcare-Chatbot">
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><strong> 🏥 Aarogya AI - Healthcare Chatbot</strong></summary>
+
+<br>
+
+An AI-powered multilingual healthcare assistant providing symptom guidance, medical information, and intelligent conversations through an intuitive web interface.
+
+<br>
+
+<a href="https://github.com/shyam-vyawahare/Aarogya-AI">
+<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><strong> 🌾 Bioscrap Official Website</strong></summary>
+
+<br>
 
 The official platform for Bioscrap, focusing on sustainable waste management solutions and environmental impact tracking.
 
@@ -158,10 +206,15 @@ The official platform for Bioscrap, focusing on sustainable waste management sol
 <a href="https://Bioscrap.in">
 <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
-</td>
-<td width="50%" valign="top">
 
-## 🌐 Portfolio Website
+</details>
+
+---
+
+<details>
+<summary><strong> 🌐 Portfolio Website</strong></summary>
+
+<br>
 
 A modern, responsive personal showcase of my engineering journey, technical projects, and creative works.
 
@@ -174,26 +227,15 @@ A modern, responsive personal showcase of my engineering journey, technical proj
 <a href="https://shyam-vyawahare.vercel.app">
 <img src="https://img.shields.io/badge/Project_Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-## 🧠 Morphed Image Detector
+</details>
 
-A machine learning system to detect image tampering and morphing using advanced classification techniques.
+---
+
+<details>
+<summary><strong> 🍽 Restaurant Management</strong></summary>
 
 <br>
-
-<a href="https://github.com/shyam-vyawahare/AI-Morphed-Image-Detection">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🍽 Restaurant Management
 
 A Python & Django powered system featuring inventory, billing, menu management, and real-time reporting.
 
@@ -202,12 +244,15 @@ A Python & Django powered system featuring inventory, billing, menu management, 
 <a href="https://github.com/shyam-vyawahare/restaurant_management_project">
 <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-## ☁ SaaS Notes Application
+</details>
+
+---
+
+<details>
+<summary><strong> ☁ SaaS Notes Application</strong></summary>
+
+<br>
 
 Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscription gating.
 
@@ -217,22 +262,9 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 <img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+</details>
 
-<td width="50%" valign="top">
-
-## 📸 Attendance System
-
-Face recognition-based automated attendance system using AI and OpenCV for seamless tracking.
-
-<br>
-
-<a href="https://github.com/shyam-vyawahare/Attendence-Management-System-Using-Face-Recognition">
-<img src="https://img.shields.io/badge/View_Repo-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
+---
 
 ## 💼 Experience
 
