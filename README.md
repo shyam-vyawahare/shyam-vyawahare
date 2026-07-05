@@ -63,12 +63,6 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 
 <p align="center">
   <picture>
-    <!-- Dark Mode -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://ghchart.rshah.org/2ea043/shyam-vyawahare"
-    />
-    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://ghchart.rshah.org/30a14e/shyam-vyawahare"
@@ -366,7 +360,6 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colour line"/>
