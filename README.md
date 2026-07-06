@@ -52,7 +52,7 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 <br/>
 
 > **My Philosophy:**  
-> *“Build with intent. Learn with curiosity. Deliver with impact.”*  
+> *“Those fight without Purpose will always lose to those have Principles.”*  
 > *“Always trying to be the Ultra Version of Myself.”*
 
 <br clear="right"/>
@@ -355,6 +355,9 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
     <img src="https://img.shields.io/badge/💬_Discord-ultrex007-111827?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000" />
   </a>
 </p>
+
+---
+
 <p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -364,7 +367,6 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Colour line"/>
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350">
