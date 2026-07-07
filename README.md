@@ -43,7 +43,7 @@
   src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 />
 
-### Myself **Shyam Vyawahare**
+### This is **Shyam Vyawahare**
 
 Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
 
@@ -350,13 +350,12 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
   <a href="https://x.com/shyam_vyawahare"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
 <p align="center">
   <a href="https://discord.com/users/ultrex007">
     <img src="https://img.shields.io/badge/💬_Discord-ultrex007-111827?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000" />
   </a>
 </p>
-
----
 
 <p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
