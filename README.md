@@ -72,7 +72,8 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
       alt="GitHub Contribution Chart"
     />
   </picture>
-  <br> Note : Commits streak from Private Repositories doesn't show up here, do see original contributions calender
+  <br> 
+  > For more details, view in Desktop mode
 </p>
 
 ---
@@ -319,7 +320,6 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam-vyawahare&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam-vyawahare&layout=compact&theme=radical" alt="Top Languages" />
-  <br> Note : Commits count, streak and information from Private Repositories doesn't show up here
 </p>
 
 ---
