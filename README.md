@@ -266,36 +266,20 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 ### 🔹 Server Infrastructure Intern - Eduspark & MHT-CET
 **Mar 2026 – Apr 2026**
 
-- Managed **mission-critical server infrastructure and database operations** for MHT-CET examinations across multiple centers in Maharashtra.
-- Ensured **secure, stable, and uninterrupted exam execution** through real-time infrastructure monitoring and backend support.
-- Worked with **server management, database handling, and technical infrastructure operations** in a high-pressure examination environment.
-- Collaborated with operational teams to maintain **system reliability and backend performance** during large-scale examination processes.
-
 ---
 
 ### 🔹 Django Developer - Perpex
 **Intern | 3+ Months**
-
-- Learnt and worked on Django Frameworks
-- Created a full stack project, Hotel Management System with admin panel for items arrangements and custom changes
 
 ---
 
 ### 🔹 Content Writer & Hindi Novelist  
 **Pocket Novel India | 3+ Years**
 
-- Authored **emotion-driven and imagination-focused Hindi novels** read by a wide audience.
-- Developed strong skills in **storytelling, scripting, and narrative structure**.
-- Gained experience in audience engagement, consistency, and long-term content planning.
-
 ---
 
 ### 🔹 Digital Artist & Designer
 **Freelance / Personal Projects**
-
-- Created **logos, posters, and digital artwork** for personal and freelance projects.
-- Applied creative thinking to **visual storytelling, branding, and design aesthetics**.
-- Combined design skills with technical understanding to produce visually engaging digital experiences.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Turning+complex+logic+into+digital+art." alt="Typing SVG" />
