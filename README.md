@@ -149,8 +149,6 @@ An AI-powered RAG platform that transforms documents into intelligent knowledge 
 
 </details>
 
----
-
 <details>
 <summary><strong>🛡️ MorphShield</strong> - <em>Morphed Image Detector</em></summary>
 
@@ -166,8 +164,6 @@ An AI-driven image forensics platform that detects morphed and manipulated image
 
 </details>
 
----
-
 <details>
 <summary><strong> 🏥 Aarogya AI - Healthcare Chatbot</strong></summary>
 
@@ -182,8 +178,6 @@ An AI-powered multilingual healthcare assistant providing symptom guidance, medi
 </a>
 
 </details>
-
----
 
 <details>
 <summary><strong> 🌾 Bioscrap Official Website</strong></summary>
@@ -204,8 +198,6 @@ The official platform for Bioscrap, focusing on sustainable waste management sol
 
 </details>
 
----
-
 <details>
 <summary><strong> 🌐 Portfolio Website</strong></summary>
 
@@ -225,8 +217,6 @@ A modern, responsive personal showcase of my engineering journey, technical proj
 
 </details>
 
----
-
 <details>
 <summary><strong> 🍽 Restaurant Management</strong></summary>
 
@@ -241,8 +231,6 @@ A Python & Django powered system featuring inventory, billing, menu management, 
 </a>
 
 </details>
-
----
 
 <details>
 <summary><strong> ☁ SaaS Notes Application</strong></summary>
@@ -263,23 +251,17 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 
 ## 💼 Experience
 
-### 🔹 Server Infrastructure Intern - Eduspark & MHT-CET
-**Mar 2026 – Apr 2026**
+🔹 Server Infrastructure Intern - Eduspark & MHT-CET - 
+**Mar 2026 - Apr 2026**
 
----
-
-### 🔹 Django Developer - Perpex
+🔹 Django Developer - Perpex - 
 **Intern | 3+ Months**
 
----
+🔹 Content Writer & Hindi Novelist - PocketNovel & PocketFM India - 
+**Remote | 3+ Years**
 
-### 🔹 Content Writer & Hindi Novelist  
-**Pocket Novel India | 3+ Years**
-
----
-
-### 🔹 Digital Artist & Designer
-**Freelance / Personal Projects**
+🔹 Digital Artist & Designer - 
+**Freelance & Personal Projects**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Turning+complex+logic+into+digital+art." alt="Typing SVG" />
