@@ -43,7 +43,7 @@
   src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 />
 
-### This is **Shyam Vyawahare**
+This is **Shyam Vyawahare**
 
 Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
 
@@ -256,7 +256,7 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=radical&hide_border=true&area=true&cache_seconds=1800" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
