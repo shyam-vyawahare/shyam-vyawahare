@@ -276,9 +276,9 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 
 | Skill | Focus Area | Status |
 | :--- | :--- | :--- |
+| **RAG Pipelines** | Retrieval Augmented Generation in AIs | 💻 Projects like RagOra & MiniOra |
 | **Machine Learning** | Model Training & Deep Learning | 🛠️ In Progress |
 | **Artificial Intelligence** | AI Agents | ⚡ Generative AI |
-| **Advanced Web** | Core Web Vitals (CWV) & Search Engine Optimization (SEO) | 📈 Deep Dive |
 | **Blender** | 3D Engineering | ⚡ Working and Handling |
 | **AI Analytics** | EDA (Exploratory Data Analytics) | 💻 Completed Job Simulation |
 
