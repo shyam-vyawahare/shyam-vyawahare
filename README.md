@@ -260,7 +260,7 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=shyam-vyawahare&theme=radical&hide_border=true&border_radius=8&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-streak.rahuldhole.com/?user=shyam-vyawahare&theme=dark&v=0.0.4" alt="GitHub Streak" />
 </p>
 
 <p align="center">
