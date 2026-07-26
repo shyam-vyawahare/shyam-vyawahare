@@ -1,10 +1,8 @@
 <p align="center">
   <br>
   <h1 align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%2C%20I%27m&fontSize=58&animation=fadeIn&fontAlignY=38"/>
-    <br>
-    <img src="assets/shname.png" height="40" style="vertical-align: middle;"/> 
-    <img src="assets/vyname.png" height="40" style="vertical-align: middle;"/>
+    <img src="assets/shname.png" height="50" style="vertical-align: middle;"/> 
+    <img src="assets/vyname.png" height="50" style="vertical-align: middle;"/>
   </h1>
 </p>
 
