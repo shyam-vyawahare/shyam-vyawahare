@@ -318,6 +318,9 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
   <i>"Where the logic of a processor meets the soul of a story."</i>
 </p>
 <br/>
+
+---
+
 <p align="center">
   <img src="assets/SVfavicon.png" height="40" width="40" style="vertical-align: middle; margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Shyam_Vyawahare-0078FF?style=for-the-badge&labelColor=000000" />
