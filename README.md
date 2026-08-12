@@ -13,21 +13,21 @@
 <div align="center">
 
 <!-- Skills -->
-<img src="https://img.shields.io/badge/🧠_Focus-AI%2FML_Development-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎨_Art-Writer_%26_Artist-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_Focus-AI%2FML_Development-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎨_Art-Writer_%26_Artist-18181B?style=for-the-badge" />
 
 <br>
 
 <!-- Current Project -->
-<img src="https://img.shields.io/badge/🚀_Current_Project-RagOra_--_RAG_Knowledge_Studio-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Current_Project-RagOra_--_RAG_Knowledge_Studio-18181B?style=for-the-badge" />
 
 </div>
 
 <p align="center">
   <a href="https://shyam-vyawahare.vercel.app" target="_Blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0078FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shyam-vyawahare&label=Profile+Views&color=18181B&style=for-the-badge" />
 </p>
 
 ---
