@@ -92,23 +92,42 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
   />
 </p>
 
-**🔸 Languages -**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=javascript&logoColor=black" />
+<div align="center">
 
-<br>
+### 🔸 Languages
 
-**🔸 Frontend -**
-<img src="https://img.shields.io/badge/React-1f232a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<br>
+<br><br>
 
-**🔸 Backend & APIs -**
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-05998c?style=for-the-badge&logo=fastapi&logoColor=white" />
+### 🔸 Frontend
 
-<br>
+<img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-**🔸 Databases & Tools -**
-<img src="https://img.shields.io/badge/MongoDB-0fa54d?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+<br><br>
+
+### 🔸 Backend & APIs
+
+<img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br><br>
+
+### 🔸 Databases & Tools
+
+<img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
