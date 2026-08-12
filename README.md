@@ -78,32 +78,21 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 
 ## 🛠️ My Tech Stack 
 
-<p align="center">
-  <img 
-  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-  width="50"
-  alt="Tech Stack Animation"
-/>
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux&theme=dark" />
-  <img 
-  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-  width="50"
-  alt="Tech Stack Animation"
-  />
-</p>
-
 <div align="center">
 
-### 🔸 Languages
+<img src="https://skillicons.dev/icons?i=py,cpp,js,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux&theme=dark" />
+
+
+### 🔸 Languages 🔸
 
 <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <br><br>
 
-### 🔸 Frontend
+### 🔸 Frontend 🔸
 
 <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -111,7 +100,7 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 
 <br><br>
 
-### 🔸 Backend & APIs
+### 🔸 Backend & APIs 🔸
 
 <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-18181B?style=for-the-badge&logo=express&logoColor=white" />
@@ -119,13 +108,19 @@ Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, a
 
 <br><br>
 
-### 🔸 Databases & Tools
+### 🔸 Databases & Tools 🔸
 
 <img src="https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+  width="50"
+  alt="Tech Stack Animation"
+  />
 
 </div>
 
