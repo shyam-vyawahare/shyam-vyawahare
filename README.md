@@ -268,7 +268,7 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=radical&hide_border=true&area=true&cache_seconds=1800" alt="GitHub Contribution Graph" />
+  <img src="https://skv-activity-graph.vercel.app/graph?username=shyam-vyawahare&theme=radical&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
