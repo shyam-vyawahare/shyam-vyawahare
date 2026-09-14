@@ -300,6 +300,19 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 
 ---
 
+## 🎮 Ongoing Projects
+
+<div align="center">
+
+| Project | Focus Area | Short Intro |
+| :--- | :--- | :--- |
+| **RagOra** | RAG Pipelines | 💻 AI which retrieves answers from provided source |
+| **Cartridge** | Full Stack | 🕹️ Multi-Gaming PC & Android Web Portal |
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
