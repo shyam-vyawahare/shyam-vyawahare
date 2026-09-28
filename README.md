@@ -46,7 +46,8 @@ This is **Shyam Vyawahare**
 Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
 
 Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, and **Creative writing** 🎨✍️ mixing storytelling, visuals, and tech to make projects feel more human and alive.
-On paper artist to digital level coder, a combination of art and logic, always looking for magical team combination, let's connect!
+
+On paper artist to digital level coder, a combination of art and logic, always looking for such magical team combination, let's connect then!
 <br/>
 
 > **My Philosophy:**  
