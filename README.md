@@ -321,6 +321,8 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
   <a href="https://x.com/shyam_vyawahare"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/shyam_v_?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+Art page instagram -   <a href="https://www.instagram.com/an_he.art.ist?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/ultrex007">
