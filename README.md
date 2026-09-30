@@ -331,7 +331,10 @@ Multi-tenant SaaS built with Next.js and PostgreSQL, featuring RBAC and subscrip
 </p>
 
 <p align="center">
-🎨 Check out my Artistic side here -   <a href="https://www.instagram.com/an_he.art.ist?igsh=MTI3d2wwZjl3ZnRwMg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  🎨 <b>Explore My Artistic Side</b> &nbsp;
+  <a href="https://www.instagram.com/an_he.art.ist?igsh=MTI3d2wwZjl3ZnRwMg==">
+    <img src="https://img.shields.io/badge/Art_%26_Creativity-18181B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
