@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shyam Vyawahare's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1104, Total PRs: 164, Total Issues: 23, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1112, Total PRs: 166, Total Issues: 23, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.94236054056356;
+        stroke-dashoffset: 74.7224363802739;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >164</text>
+      >166</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
