@@ -41,14 +41,21 @@
   src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
 />
 
-This is **Shyam Vyawahare**
-Customer Support Engineer @ <img src="assets/goEgo.png" height="20" style="vertical-align: middle;"/>
+This is Shyam Vyawahare
 
-Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
+<div style="display: flex; align-items: center; gap: 6px;">
 
-Alongside Python & AI development, I’m deeply into **Art**, **Logo design**, and **Creative writing** 🎨✍️ mixing storytelling, visuals, and tech to make projects feel more human and alive.
+  <strong>Customer Support Engineer @</strong>
+  <img src="assets/goEgo.jpg" height="32" style="display: block;"/>
 
-On paper artist to digital level coder, a combination of art and logic, always looking for such magical team combination, let's connect then!
+</div>
+
+Usually found bridging technology and people - troubleshooting real-world challenges, building AI tools, and turning late-night ideas into meaningful digital experiences ⚡
+
+Alongside my professional journey in Customer Support Engineering at goEgo, I'm passionate about AI/ML Development, Art, Logo Design, and Creative Writing 🎨✍️ bringing together technical thinking, creativity, and problem-solving.
+
+From traditional art to digital innovation, I believe the best ideas emerge when art meets logic. Always exploring, learning, creating, and looking forward to connecting with people who share the same curiosity!
+
 <br/>
 
 > **My Philosophy:**  
