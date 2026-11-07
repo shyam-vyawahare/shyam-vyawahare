@@ -42,7 +42,7 @@
 />
 
 This is **Shyam Vyawahare**
-Customer Support Engineer @ goEgo
+Customer Support Engineer @ <img src="assets/goEgo.png" height="20" style="vertical-align: middle;"/>
 
 Usually found building AI tools, coding late-night ideas into reality, or turning random concepts into clean full-stack experiences ⚡
 
